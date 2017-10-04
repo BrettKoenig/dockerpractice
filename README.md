@@ -17,4 +17,6 @@ cd dockerpractice
 
 This VM has Docker already installed on it. To destroy the machine, call `vagrant destroy`. Or to just shut it down, call `vagrant halt`.
 
-To SSH into the virtual machine, call `vagrant ssh`. Read this to learn about basic Linux commands for getting around the filesystem: https://www.digitalocean.com/community/tutorials/basic-linux-navigation-and-file-management
+6. To SSH into the virtual machine, call `vagrant ssh`. Read this to learn about basic Linux commands for getting around the filesystem: https://www.digitalocean.com/community/tutorials/basic-linux-navigation-and-file-management
+
+Once you're SSH'ed in, check that Docker is installed with `sudo docker version`.
