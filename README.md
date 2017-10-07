@@ -4,10 +4,11 @@ A simple Docker installation on Ubuntu.
 
 Pre-requisite steps:
 
-1. Go to https://www.virtualbox.org/wiki/Downloads and download and install VirtualBox
-2. Go to https://www.vagrantup.com/downloads.html and download and install Vagrant
-3. Clone this repository to your machine via: `git clone https://github.com/NickMRamirez/dockerpractice.git`
-4. Open a command-line prompt (Powershell on Windows) and navigate to the *dockerpractice* folder:
+1. Be sure that virtualization is turned on in your BIOS.
+2. Go to https://www.virtualbox.org/wiki/Downloads and download and install VirtualBox
+3. Go to https://www.vagrantup.com/downloads.html and download and install Vagrant
+4. Clone this repository to your machine via: `git clone https://github.com/NickMRamirez/dockerpractice.git`
+5. Open a command-line prompt (Powershell on Windows) and navigate to the *dockerpractice* folder:
 
 ```
 cd dockerpractice
